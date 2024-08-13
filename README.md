@@ -26,5 +26,5 @@ $ git checkout <branch-name> -> to change branch
 
 $ git checkout -b <branch-name> -> to create new branch and switch to that new branch
 
-
+$ git fetch -> to downloads the updates from the remote repository including new branches.
 ```

@@ -8,4 +8,10 @@ need to change dir/folder to cloned repo
 
 $ git pull -> only after cloning. everytime if there is some changes on remote repo, then git pull will works.
 
+$ git pull -> only after cloning. everytime if there is some changes on remote repo, then git pull will works.
+
+$ git pull -> only after cloning. everytime if there is some changes on remote repo, then git pull will works.
+
+$ git pull -> only after cloning. everytime if there is some changes on remote repo, then git pull will works.
+
 ```

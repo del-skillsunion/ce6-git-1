@@ -9,4 +9,3 @@ $ git pull -> only after cloning. everytime if there is some changes on remote r
 
 updated by aldin
 
-updating README.md via local host

@@ -10,3 +10,4 @@ $ git pull -> only after cloning. everytime if there is some changes on remote r
 updated by aldin
 
 updating via remote repository
+updated via localhost

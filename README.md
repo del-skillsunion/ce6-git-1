@@ -5,10 +5,7 @@ $ git clone -> for the first time cloning repo to local
 
 $ git pull -> only after cloning. everytime if there is some changes on remote repo, then git pull will works.
 
-<<<<<<< HEAD
 This is my edit by Benjamin, this is a non conflict.
-=======
 This is my edit by Benjamin, this is a conflict
->>>>>>> db1e1c2b5f82f0c960721c88ddb7d071a0791410
 
 ```
